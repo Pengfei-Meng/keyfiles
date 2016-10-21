@@ -1,0 +1,3 @@
+pengfei@pengfei-Linux:~$ cd /run/user/1000/gvfs/smb-share:server=arc-fs4.win.rpi.edu,share=software/matlab/2015a/Students_Only/linux64/
+pengfei@pengfei-Linux:/run/user/1000/gvfs/smb-share:server=arc-fs4.win.rpi.edu,share=software/matlab/2015a/Students_Only/linux64$ ls
+
